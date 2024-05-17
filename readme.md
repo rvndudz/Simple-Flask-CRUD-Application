@@ -1,8 +1,8 @@
-# Simple CURD Application example using Flask
+# Simple CRUD Application built with Flask
 
 ## Description
 
-This project is a web application built with Flask, a lightweight WSGI web application framework. It's designed to provide users with a clean, easy-to-use interface for managing their tasks. The application allows users to create, update, and delete tasks, and also supports user authentication. This project is ideal for individuals looking to improve their productivity or teams looking to streamline their workflow.
+This project is a web application built with Flask, a lightweight WSGI web application framework. This project serves as a basic example of a web application that provides users with a clean and intuitive interface for managing tasks. The application supports full CRUD (Create, Read, Update, Delete) operations.
 
 ## Installation
 
@@ -27,7 +27,7 @@ To set up and run this project locally, follow these steps:
 
 ## Usage
 
-To run the Flask application:
+To run the Flask application in debug mode:
 
 ```shell
 flask --app app run --debug
